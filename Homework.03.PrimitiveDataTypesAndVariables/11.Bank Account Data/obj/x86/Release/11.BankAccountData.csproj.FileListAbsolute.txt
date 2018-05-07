@@ -1,0 +1,10 @@
+E:\1_ Ico\SoftUni\Programming-Basics-August-2015\3.Topic\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\bin\Release\11.BankAccountData.exe
+E:\1_ Ico\SoftUni\Programming-Basics-August-2015\3.Topic\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\bin\Release\11.BankAccountData.pdb
+E:\1_ Ico\SoftUni\Programming-Basics-August-2015\3.Topic\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\obj\x86\Release\ResolveAssemblyReference.cache
+E:\1_ Ico\SoftUni\Programming-Basics-August-2015\3.Topic\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\obj\x86\Release\11.BankAccountData.exe
+E:\1_ Ico\SoftUni\Programming-Basics-August-2015\3.Topic\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\obj\x86\Release\11.BankAccountData.pdb
+C:\Documents and Settings\i\Desktop\SoftUni-course-2015-August\Topic_3\Homework.3.PrimitiveDataTypesAndVariables\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\bin\Release\11.BankAccountData.exe
+C:\Documents and Settings\i\Desktop\SoftUni-course-2015-August\Topic_3\Homework.3.PrimitiveDataTypesAndVariables\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\bin\Release\11.BankAccountData.pdb
+C:\Documents and Settings\i\Desktop\SoftUni-course-2015-August\Topic_3\Homework.3.PrimitiveDataTypesAndVariables\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\i\Desktop\SoftUni-course-2015-August\Topic_3\Homework.3.PrimitiveDataTypesAndVariables\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\obj\x86\Release\11.BankAccountData.exe
+C:\Documents and Settings\i\Desktop\SoftUni-course-2015-August\Topic_3\Homework.3.PrimitiveDataTypesAndVariables\Homework.3.PrimitiveDataTypesAndVariables\11.Bank Account Data\obj\x86\Release\11.BankAccountData.pdb

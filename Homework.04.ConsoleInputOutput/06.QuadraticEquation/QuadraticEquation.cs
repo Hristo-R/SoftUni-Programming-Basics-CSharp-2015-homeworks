@@ -12,6 +12,7 @@ class QuadraticEquation
         double c = double.Parse(Console.ReadLine());
 
         double D = Math.Pow(b, 2) - 4 * a * c;
+        
         if (D < 0)
         {
             Console.WriteLine("no real roots");
